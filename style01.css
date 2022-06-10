@@ -1,0 +1,51 @@
+body{
+    background-color: #f6f3ff;
+   padding: 12%;
+
+}
+
+.name{
+    color: gold;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.tagline{
+color:blueviolet;
+font-style:italic;
+}
+
+
+img{
+   float: center
+   
+}
+.pricetopic{
+   font-size:25px;
+   font-weight:bold;
+
+}
+table{
+   border: 1px solid black;
+   width: 100%;
+}
+td, th {
+    text-align: left;
+   padding: 16px;
+
+}footer{
+   text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 10px;
+   padding:3px;
+   background-color: orange;
+   color: black;
+   position: fixed;
+   bottom: 0;
+   width:100%;
+}
+video{
+   align-items: center;
+}
